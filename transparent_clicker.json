@@ -1,0 +1,58 @@
+{
+  "points": {
+    "open": [
+      {
+        "type": "click",
+        "x": 2408,
+        "y": 1249,
+        "description": "Клик (2408,1249)"
+      },
+      {
+        "type": "double_click",
+        "x": 2285,
+        "y": 1085,
+        "description": "Двойной (2285,1085)"
+      },
+      {
+        "type": "click",
+        "x": 2296,
+        "y": 1122,
+        "description": "Клик (2296,1122)"
+      },
+      {
+        "type": "click",
+        "x": 2306,
+        "y": 942,
+        "description": "Клик (2306,942)"
+      }
+    ],
+    "close": [
+      {
+        "type": "click",
+        "x": 2408,
+        "y": 1248,
+        "description": "Клик (2408,1248)"
+      },
+      {
+        "type": "double_click",
+        "x": 2283,
+        "y": 1088,
+        "description": "Двойной (2283,1088)"
+      },
+      {
+        "type": "click",
+        "x": 2303,
+        "y": 1153,
+        "description": "Клик (2303,1153)"
+      },
+      {
+        "type": "click",
+        "x": 2308,
+        "y": 937,
+        "description": "Клик (2308,937)"
+      }
+    ]
+  },
+  "hotkey_open": "ctrl+shift+o",
+  "hotkey_close": "ctrl+shift+c"
+}
